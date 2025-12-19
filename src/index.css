@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+:root {
+  /* AIA PRIMARY */
+  --primary: 213 100% 43%; /* #0067DA */
+  --primary-foreground: 0 0% 100%; /* white */
+
+  /* AIA SECONDARY */
+  --secondary: 28 97% 51%; /* #fb7705 */
+  --secondary-foreground: 0 0% 100%;
+
+  /* AIA DARK */
+  --dark: 219 40% 31%; /* #30446e */
+  --dark-foreground: 0 0% 100%;
+}
